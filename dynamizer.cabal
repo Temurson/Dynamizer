@@ -1,10 +1,11 @@
+cabal-version:       3.4
 name:                dynamizer
 version:             0.1.0.0
 Copyright:           (c) 2015 - present Deyaaeldeen Almahallawi
 synopsis:            dynamizer produces all valid less precisely-typed versions of a valid program in Grift.
 -- description:         
 homepage:            https://github.com/Gradual-Typing/Dynamizer
-license:             GPL-3
+license:             GPL-3.0-only
 license-file:        LICENSE
 author:              Deyaaeldeen Almahallawi
 maintainer:          Deyaaeldeen Almahallawi <diaa6510@gmail.com>
@@ -14,7 +15,6 @@ category:            Language
 Stability:           experimental   
 build-type:          Simple
 extra-source-files:  README.md, LICENSE
-cabal-version:       2.0.1.0
 Source-repository head
    type: git
    location: git://github.com/Gradual-Typing/Dynamizer.git
